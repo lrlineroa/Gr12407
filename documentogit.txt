@@ -1,3 +1,0 @@
-Este es mi primer archivo en GIT, esta es una modificacion
-
-v2.0.0
